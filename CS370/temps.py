@@ -5,6 +5,8 @@
 # August 2013 High Temps for Knoxville,TN
 # Hwk 1 for COSC 370/Math 371 (Fall 2014)
 #
+
+#!/usr/bin.env python3
 from numpy import *
 import matplotlib.pyplot as plt
 xData = arange(1,32)    # Ranges for x and y axes must match
